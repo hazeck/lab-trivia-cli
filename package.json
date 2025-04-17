@@ -1,0 +1,24 @@
+{
+  "name": "lab-trivia-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazeck/lab-trivia-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazeck/lab-trivia-cli/issues"
+  },
+  "homepage": "https://github.com/hazeck/lab-trivia-cli#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.4.1",
+    "chalk": "^5.4.1"
+  }
+}
